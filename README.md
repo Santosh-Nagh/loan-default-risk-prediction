@@ -19,7 +19,7 @@ This project leverages advanced machine learning techniques to predict loan defa
 ## Usage Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-default-risk-prediction.git
+   git clone https://github.com/Santosh-Nagh/loan-default-risk-prediction.git
    ```
 2. Navigate to the `scripts/` folder and run the `R_loan_default_risk_prediction.R` file in RStudio.
 3. View the results and outputs in the `documents/` folder.
