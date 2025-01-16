@@ -14,8 +14,7 @@ This project leverages advanced machine learning techniques to predict loan defa
   - `Loan Default Risk Case Study.docx`: A more detailed case study version of the project.
 - **`scripts/`**: Includes code used for data processing and modeling.
   - `R_loan_default_risk_prediction.R`: R script for data preprocessing, feature engineering, and predictive modeling.
-- **`visuals/`** (optional): Charts and graphs generated from the analysis (if applicable).
-- **`data/`** (optional): Placeholders for datasets or links to external dataset sources (datasets are not included due to size constraints).
+
 
 ## Usage Instructions
 1. Clone the repository:
